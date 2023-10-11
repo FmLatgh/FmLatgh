@@ -1,5 +1,5 @@
 - Hey, the name's FmLatgh, or known as Stan. Alternatively known as Martin! 👋
-- I am an First-Year student at the SiNTLUCAS college in Eindhoven, Netherlands.
+- I am an Second-Year student at the SiNTLUCAS college in Eindhoven, Netherlands.
 - I'm learning how to develop software and probably learn about making games/Discord Bots or other software along the way. 🔰
 - Although, I'm also a good administrator and a good sport for certain tasks.
 - And more importantly, products I made in school, in private or otherwise good to have will be posted here!
