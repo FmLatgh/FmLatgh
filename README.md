@@ -4,8 +4,17 @@
 - Although, I'm also a good administrator and a good sport for certain tasks.
 - And more importantly, products I made in school, in private or otherwise good to have will be posted here!
 
-- About my portfolio....                               
-Administrator for a project on a game owned by my brother was also a co-developer in the past.
-Old administrator of now trending games/communities on ROBLOX.
-Moderator for Discord Servers (But that ain't really relevant, is it?)
-Sole Developer of a "Religious" themed game named "Church of Omen"
+Things I did in the past:                             
+- Administrator for a project on a game owned by my brother was also a co-developer in the past.
+- Old administrator of now trending games/communities on ROBLOX.
+- Lead Developer of a little roblox game in free time
+- Game Lead of a SCPSL server
+
+Coding languages:
+- Dream Maker - Beginner
+- LuaU (RBLX) - Semi-fluent
+- Brainfuck and other Esolang - Fluent
+- Javascript - Fluent
+- PHP - Fluent
+- PWS/Bash - Semi-fluent
+- HTMLCSS - Fluent
